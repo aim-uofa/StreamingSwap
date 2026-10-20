@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://aim-uofa.github.io/StreamingSwap/assets/streamingswap-logo-dark-mode.svg">
-    <img src="https://aim-uofa.github.io/StreamingSwap/assets/streamingswap-logo-transparent.png" alt="StreamingSwap" width="480">
-  </picture>
+  <img src="https://aim-uofa.github.io/StreamingSwap/assets/streamingswap-logo-white.svg" alt="StreamingSwap" width="480">
 </p>
 
 <h3 align="center">From Short Clips to Real-Time Streams: Identity-Aware Supervision and Context-Efficient Generation for Video Face Swapping</h3>
@@ -14,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://aim-uofa.github.io/StreamingSwap/assets/readme-paper-badge.svg?v=3" alt="Paper: coming soon" height="36">
+  <img src="https://aim-uofa.github.io/StreamingSwap/assets/readme-paper-badge.svg?v=4" alt="Paper: coming soon" height="36">
   <a href="https://aim-uofa.github.io/StreamingSwap/"><img src="https://aim-uofa.github.io/StreamingSwap/assets/readme-project-badge.svg" alt="Project Page" height="36"></a>
   <img src="https://aim-uofa.github.io/StreamingSwap/assets/readme-dataset-badge.svg?v=3" alt="Dataset on ModelScope: coming soon" height="36">
 </p>
