@@ -1,18 +1,25 @@
-# StreamingSwap
-
-**From Short Clips to Real-Time Streams: Identity-Aware Supervision and Context-Efficient Generation for Video Face Swapping**
-
-Zekai Luo*, Yuwei Liang*, Ruiqi Ma, Haoyu Huang, Xuehao Wang, Huanyi Zheng, Mingyu Liu, Linhao Zhong, Chenchen Jing, Yuling Xi†, Hao Chen†  
-Zhejiang University · Zhejiang University of Technology  
-*Equal contribution · †Corresponding authors
-
 <p align="center">
-  <img src="https://aim-uofa.github.io/StreamingSwap/assets/readme-paper-badge.svg?v=2" alt="Paper: coming soon" height="52">
-  <a href="https://aim-uofa.github.io/StreamingSwap/"><img src="https://aim-uofa.github.io/StreamingSwap/assets/readme-project-badge.svg" alt="Project Page" height="52"></a>
-  <img src="https://aim-uofa.github.io/StreamingSwap/assets/readme-dataset-badge.svg?v=2" alt="Dataset on ModelScope: coming soon" height="52">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://aim-uofa.github.io/StreamingSwap/assets/streamingswap-logo-dark-mode.svg">
+    <img src="https://aim-uofa.github.io/StreamingSwap/assets/streamingswap-logo-transparent.png" alt="StreamingSwap" width="480">
+  </picture>
 </p>
 
-StreamingSwap transfers a reference identity to a target video while preserving its other attributes and motion, with real-time streaming generation over long videos.
+<h3 align="center">From Short Clips to Real-Time Streams: Identity-Aware Supervision and Context-Efficient Generation for Video Face Swapping</h3>
+
+<p align="center">
+  Zekai Luo*, Yuwei Liang*, Ruiqi Ma, Haoyu Huang, Xuehao Wang, Huanyi Zheng, Mingyu Liu, Linhao Zhong, Chenchen Jing, Yuling Xi†, Hao Chen†<br>
+  Zhejiang University · Zhejiang University of Technology<br>
+  *Equal contribution · †Corresponding authors
+</p>
+
+<p align="center">
+  <img src="https://aim-uofa.github.io/StreamingSwap/assets/readme-paper-badge.svg?v=3" alt="Paper: coming soon" height="36">
+  <a href="https://aim-uofa.github.io/StreamingSwap/"><img src="https://aim-uofa.github.io/StreamingSwap/assets/readme-project-badge.svg" alt="Project Page" height="36"></a>
+  <img src="https://aim-uofa.github.io/StreamingSwap/assets/readme-dataset-badge.svg?v=3" alt="Dataset on ModelScope: coming soon" height="36">
+</p>
+
+<p align="center">Reference-guided face swapping for real-time video streams, preserving target attributes and motion.</p>
 
 <p align="center">
   <img src="https://aim-uofa.github.io/StreamingSwap/assets/teaser.png" alt="StreamingSwap teaser showing professional film, live streaming, and AI-generated drama face-swapping examples" width="900">
