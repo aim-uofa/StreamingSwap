@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <img src="https://aim-uofa.github.io/StreamingSwap/assets/readme-paper-badge.svg?v=4" alt="Paper: coming soon" height="36">
-  <a href="https://aim-uofa.github.io/StreamingSwap/"><img src="https://aim-uofa.github.io/StreamingSwap/assets/readme-project-badge.svg" alt="Project Page" height="36"></a>
-  <img src="https://aim-uofa.github.io/StreamingSwap/assets/readme-dataset-badge.svg?v=3" alt="Dataset on ModelScope: coming soon" height="36">
+  <a href="https://arxiv.org/abs/2610.26681"><img src="https://aim-uofa.github.io/StreamingSwap/assets/readme-paper-badge.svg?v=5" alt="Paper on arXiv" height="30"></a>
+  <a href="https://aim-uofa.github.io/StreamingSwap/"><img src="https://aim-uofa.github.io/StreamingSwap/assets/readme-project-badge.svg" alt="Project Page" height="30"></a>
+  <img src="https://aim-uofa.github.io/StreamingSwap/assets/readme-dataset-badge.svg?v=4" alt="Dataset on ModelScope: coming soon" height="30">
 </p>
 
 <p align="center">Reference-guided face swapping for real-time video streams, preserving target attributes and motion.</p>
@@ -56,4 +56,14 @@ We are preparing the following releases:
 
 ## Citation
 
-BibTeX will be added when the paper's publication details are available.
+```bibtex
+@misc{luo2026streamingswap,
+  title={From Short Clips to Real-Time Streams: Identity-Aware Supervision and Context-Efficient Generation for Video Face Swapping},
+  author={Zekai Luo and Yuwei Liang and Ruiqi Ma and Haoyu Huang and Xuehao Wang and Huanyi Zheng and Mingyu Liu and Linhao Zhong and Chenchen Jing and Yuling Xi and Hao Chen},
+  year={2026},
+  eprint={2610.26681},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2610.26681}
+}
+```
