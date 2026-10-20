@@ -6,11 +6,13 @@ Zekai Luo*, Yuwei Liang*, Ruiqi Ma, Haoyu Huang, Xuehao Wang, Huanyi Zheng, Ming
 Zhejiang University · Zhejiang University of Technology  
 *Equal contribution · †Corresponding authors
 
-**[Project page](https://aim-uofa.github.io/StreamingSwap/)** · Paper: link to be added · Code: coming soon
+<p align="center">
+  <img src="https://aim-uofa.github.io/StreamingSwap/assets/readme-paper-badge.svg?v=2" alt="Paper: coming soon" height="52">
+  <a href="https://aim-uofa.github.io/StreamingSwap/"><img src="https://aim-uofa.github.io/StreamingSwap/assets/readme-project-badge.svg" alt="Project Page" height="52"></a>
+  <img src="https://aim-uofa.github.io/StreamingSwap/assets/readme-dataset-badge.svg?v=2" alt="Dataset on ModelScope: coming soon" height="52">
+</p>
 
 StreamingSwap transfers a reference identity to a target video while preserving its other attributes and motion, with real-time streaming generation over long videos.
-
-## Teaser
 
 <p align="center">
   <img src="https://aim-uofa.github.io/StreamingSwap/assets/teaser.png" alt="StreamingSwap teaser showing professional film, live streaming, and AI-generated drama face-swapping examples" width="900">
@@ -39,7 +41,7 @@ In Phase I, Face-RoI Generation focuses computation on the face region, while Jo
 
 Built from OpenHumanVid, HumanFaceVid provides 1,000 hours of training data and evaluation sets of 200 short and 200 long videos. Reverse-paired training uses synthetic face-swapped inputs and the original real videos as ground truth.
 
-## 🚀 Release Plan
+## Release Plan
 
 We are preparing the following releases:
 
